@@ -53,6 +53,10 @@ This project analyzes waste generation and recycling trends in India using Pytho
 - Waste vs population analysis  
 
 ---
+##Dashboard
+![Dashboard 1](final1.png)
+![Dashboard 2](final2.png)
+![Dashboard 3](final3.png)
 
 ## 📊 Sample Python Code
 
